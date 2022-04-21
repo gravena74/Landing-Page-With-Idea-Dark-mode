@@ -29,7 +29,11 @@ nav ul li{
 
 a{
     text-decoration: none;
-    color: #222
+    color: #fff
+}
+
+h2 a{
+    color: #222;
 }
 
 span{
